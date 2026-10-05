@@ -14,16 +14,16 @@
 
 ---
 
-### 🧠 About Me
-I am an **AI-Native UI/UX Engineer** and **Python/TypeScript Developer** dedicated to building intelligent, interactive web solutions. I merge automated computational intelligence with sleek user interfaces.
+### 🩺 About Me & Vision
+I am a **licensed Medical Doctor (MD)** and an **AI-native coder** currently mastering Python. I hold a deep conviction that artificial intelligence is ultimately a tool—and it is humans who decide how to build and wield it. As a physician deeply passionate about technology, my mission is to actively lead the convergence of medicine and AI, ensuring software tools are engineered safely and effectively for clinical impact. 
 
-* 🚀 **Core Focus:** Building robust algorithmic systems, data tools, and 2.5D gaming mechanics.
-* 🛠️ **Current Projects:** Scaling health-tech intelligence and battlefield animation editors.
-* 🤖 **AI Mindset:** Prompt architecture, agent integration, and rapid code deployment.
+* 🚀 **Building the Future:** I have already conceptualized and developed multiple applications spanning clinical dosing algorithms and creative interactive visual suites.
+* 🐍 **Current Focus:** Deepening my structural Python expertise to build scalable backends for intelligent health systems.
+* 🤖 **AI Mindset:** Working seamlessly alongside AI agents as co-pilots to rapidly engineer, build, and deploy software.
 
 ---
 
-### 🛠️ Core Tech Stack
+### 🛠️ Core Tech Stack & Tools
 <p align="left">
   <img src="https://shields.io" alt="Python"/>
   <img src="https://shields.io" alt="TypeScript"/>
@@ -45,6 +45,6 @@ I am an **AI-Native UI/UX Engineer** and **Python/TypeScript Developer** dedicat
 
 ### 🎯 Key Engineering Highlights
 
-* 🎬 **[strategy-lab-studio](https://github.com)** — A deterministic, commander-controlled battlefield animation editor utilizing modern Canvas renders and video timelines.
-* 💊 **[DoseGpt](https://github.com)** — An offline algorithmic paediatric and adult dosing reference suite optimized for rapid metadata checks.
-* 🧪 **[TrimAURAS](https://github.com)** — Custom high-velocity automation scripts utilizing clean Python environments.
+* 💊 **[DoseGpt](https://github.com)** — An offline, deterministic paediatric and adult dosing reference suite built to deliver rock-solid, model-free metadata checks for clinical safety.
+* 🎬 **[strategy-lab-studio](https://github.com)** — A complex, commander-controlled battlefield animation editor featuring canvas timelines and video exports.
+* 🩺 **[MalariaX](https://github.com)** — An AI-driven progressive web application designed to bridge community detection protocols with public health action.
