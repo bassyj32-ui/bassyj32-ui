@@ -14,12 +14,8 @@
 
 ---
 
-### 🩺 About Me & Vision
-I am a **licensed Medical Doctor (MD)** and an **AI-native coder** currently mastering Python. I hold a deep conviction that artificial intelligence is ultimately a tool—and it is humans who decide how to build and wield it. As a physician deeply passionate about technology, my mission is to actively lead the convergence of medicine and AI, ensuring software tools are engineered safely and effectively for clinical impact. 
-
-* 🚀 **Building the Future:** I have already conceptualized and developed multiple applications spanning clinical dosing algorithms and creative interactive visual suites.
-* 🐍 **Current Focus:** Deepening my structural Python expertise to build scalable backends for intelligent health systems.
-* 🤖 **AI Mindset:** Working seamlessly alongside AI agents as co-pilots to rapidly engineer, build, and deploy software.
+### 🩺 About Me
+I'm a licensed medical doctor who fell in love with tech. I see AI as a powerful tool, but it's up to us humans to steer how we actually use it.  Right now, I'm diving deep into Python to expand my skills as an AI-native developer. I've already built a handful of apps, and my ultimate goal is to lead the way at the intersection of medicine and software engineering.
 
 ---
 
@@ -40,11 +36,3 @@ I am a **licensed Medical Doctor (MD)** and an **AI-native coder** currently mas
   <img src="https://vercel.app" alt="Bassy J's GitHub Stats" height="180px"/>
   <img src="https://vercel.app" alt="Top Languages Used" height="180px"/>
 </p>
-
----
-
-### 🎯 Key Engineering Highlights
-
-* 💊 **[DoseGpt](https://github.com)** — An offline, deterministic paediatric and adult dosing reference suite built to deliver rock-solid, model-free metadata checks for clinical safety.
-* 🎬 **[strategy-lab-studio](https://github.com)** — A complex, commander-controlled battlefield animation editor featuring canvas timelines and video exports.
-* 🩺 **[MalariaX](https://github.com)** — An AI-driven progressive web application designed to bridge community detection protocols with public health action.
